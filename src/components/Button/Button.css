@@ -1,0 +1,18 @@
+button {
+  padding: 1rem 2rem;
+  color: white;
+  background: linear-gradient(to left, #13adc7, #6978d1, #945dd6);
+  border: none;
+  border-radius: 83px;
+  cursor: pointer;
+}
+
+.btn-1 {
+  font-size: 1.25rem;
+  font-weight: 600;
+}
+
+.btn-2 {
+  font-size: 1rem;
+  font-weight: 600;
+}

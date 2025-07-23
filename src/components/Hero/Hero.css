@@ -1,0 +1,17 @@
+.paragraph > p {
+  font-size: 2rem;
+  font-weight: 600;
+  color: #bcbcbc;
+  margin-bottom: 2rem;
+  margin-left: 4rem;
+}
+
+#button {
+  margin: 0 0 5rem 7rem;
+}
+
+@media (max-width: 425px) {
+  .paragraph > p {
+    font-size: 1.5rem;
+  }
+}

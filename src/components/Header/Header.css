@@ -1,0 +1,43 @@
+header {
+  width: 100%;
+  flex-direction: row;
+  padding: 1rem 0 5rem 0;
+}
+
+.links {
+  flex-grow: 7;
+}
+
+.icons {
+  flex-grow: 3;
+}
+
+a {
+  margin-left: 3rem;
+  font-size: 1.25rem;
+}
+
+a:first-child {
+  margin-left: 0;
+}
+
+#git {
+  padding-right: 1rem;
+}
+
+@media (max-width: 650px) {
+  .header-media {
+    padding: 0;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+    gap: 1rem;
+  }
+}
+
+@media (max-width: 375px) {
+  .header-media {
+    font-size: 12px;
+    padding: 1rem 1rem;
+  }
+}
