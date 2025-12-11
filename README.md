@@ -1,3 +1,11 @@
+Link do Desafio deployado no Netlify: https://reactcomhooks.netlify.app
+
+Optei pelo Template 02 por suas características visuais escuras, que oferecem:
+- Melhor contraste para legibilidade.
+- Estética moderna e reduz fadiga visual.
+- Adequação a contextos noturnos ou ambientes com menos luz.
+Além da minha preferência pessoal por azul.
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
